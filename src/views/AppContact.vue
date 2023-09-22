@@ -6,7 +6,7 @@
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi
       necessitatibus deleniti ex aspernatur cumque. Veniam nobis non nisi sunt
       eius. Dolorem necessitatibus expedita repudiandae provident? Sunt, facere.
-      Reiciendis, adipisci accusamus.
+      Reiciendis, adipisci accusamus. 
     </p>
     
   </div>
