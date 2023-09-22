@@ -4,7 +4,6 @@
       <hr class="content__separator" />
       <p>Student Name: Dilpreet Singh</p>
       <p>Student ID: S223799929</p>
-  
     </div>
   </template>
   
