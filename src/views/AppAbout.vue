@@ -1,6 +1,6 @@
 <template>
     <div class="content">
-      <h2 class="content__heading">About us</h2>
+      <h2 class="content__heading">About us </h2>
       <hr class="content__separator" />
       <p>Student Name: Dilpreet Singh</p>
       <p>Student ID: S223799929</p>
